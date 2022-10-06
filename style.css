@@ -9,6 +9,10 @@ header{
   padding-top: 1%;
 }
 
+header input{
+  width: 700px;
+}
+
 .nav{
   background-color: rgb(2, 4, 69);
   height: 100vh;

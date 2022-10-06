@@ -15,7 +15,7 @@ header input{
 
 .nav{
   background-color: rgb(2, 4, 69);
-  height: 100vh;
+  height: 100%;
   width: 130px;
   padding: 0%;
   background-image: url(/assets/img/sidebar-bg.png);
@@ -26,8 +26,8 @@ header input{
 
 main{
   display: flex;
-  height: calc(100vh - 50px);
-  background-color: chartreuse;
+  height: 100%;
+  /* background-color: chartreuse; */
 }
 
 .bt-v{
@@ -50,4 +50,9 @@ main{
   border-radius: 8px;
   border: none;
   padding: 0 10px;
+}
+
+.card-body img{
+  height: 250px;
+  width: 300px;
 }

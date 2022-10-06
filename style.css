@@ -13,10 +13,10 @@ header{
   background-color: coral;
   height: 100vh;
   width: 10%;
+  padding: 0%;
 }
 
 main{
   height: calc(100 - 50px);
-  width: calc(100% - 10%);
   background-color: chartreuse;
 }

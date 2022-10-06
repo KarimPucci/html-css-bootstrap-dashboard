@@ -29,3 +29,25 @@ main{
   height: calc(100vh - 50px);
   background-color: chartreuse;
 }
+
+.bt-v{
+  color: white;
+  background-color: green;
+  border-radius: 8px;
+  border: none;
+  padding: 0 10px;
+}
+.bt-g{
+  color: white;
+  background-color: rgb(255, 221, 2);
+  border-radius: 8px;
+  border: none;
+  padding: 0 10px;
+}
+.bt-r{
+  color: white;
+  background-color: red;
+  border-radius: 8px;
+  border: none;
+  padding: 0 10px;
+}
